@@ -6,7 +6,7 @@ package assignment2.hospital_managemnet;
 
 /**
  *
- * @author patil
+ * @author Ganesh Kukreja
  */
 public class Assignment2Hospital_Managemnet {
 

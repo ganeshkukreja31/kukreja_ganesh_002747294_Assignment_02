@@ -12,7 +12,7 @@ import java.util.Date;
 
 /**
  *
- * @author patil
+ * @author Ganesh Kukreja
  */
 public class AppointmentDirectory {
     

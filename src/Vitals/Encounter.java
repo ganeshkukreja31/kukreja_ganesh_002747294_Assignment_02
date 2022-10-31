@@ -7,7 +7,7 @@ package Vitals;
 
 /**
  *
- * @author ritvik
+ * @author Ganesh Kukreja
  */
 public class Encounter {
 

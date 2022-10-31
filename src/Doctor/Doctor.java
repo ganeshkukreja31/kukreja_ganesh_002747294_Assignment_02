@@ -8,7 +8,7 @@ import Person.Person;
 
 /**
  *
- * @author patil
+ * @author Ganesh Kukreja
  */
 public class Doctor extends Person {
     

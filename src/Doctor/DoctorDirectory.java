@@ -6,7 +6,7 @@ package Doctor;
 
 /**
  *
- * @author patil
+ * @author Ganesh Kukreja
  */
 
 import java.util.ArrayList;

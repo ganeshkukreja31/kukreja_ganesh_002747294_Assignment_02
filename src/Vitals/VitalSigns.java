@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  *
- * @author ritvik
+ * @author Ganesh Kukreja
  */
 public class VitalSigns {
 

@@ -8,7 +8,7 @@ import java.util.UUID;
 
 /**
  *
- * @author patil
+ * @author Ganesh Kukreja
  */
 public class Person {
     private String usertype;

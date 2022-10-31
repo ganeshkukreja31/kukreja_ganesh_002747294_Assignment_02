@@ -10,7 +10,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author ritvik
+ * @author Ganesh Kukreja
  */
 public class EncounterHistory {
 
